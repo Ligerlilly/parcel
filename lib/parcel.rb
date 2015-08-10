@@ -1,0 +1,2 @@
+class Parcel
+end
